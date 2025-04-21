@@ -4,7 +4,6 @@ import {
   HomeIcon,
   UserIcon,
   AlignJustify,
-  LogOut,
   BellRing,
 } from "lucide-react";
 import {
